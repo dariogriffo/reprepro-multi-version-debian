@@ -1,0 +1,10 @@
+Source: reprepro-multi-version
+Section: utils
+Priority: optional
+Maintainer: Dario Griffo <dariogriffo@gmail.com>
+Homepage: https://github.com/dariogriffo/reprepro-multi-version-debian
+Package: reprepro-multi-version
+Version: VERSION-BUILD_VERSION+DIST
+Architecture: amd64
+Depends: 
+Description: A general-purpose command-line fuzzy finder.
